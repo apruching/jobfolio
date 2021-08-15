@@ -1,0 +1,377 @@
+ /* extra large device starts */
+ 
+ @media (min-width: 1200px) and (max-width:1399.98px) {
+     #remote .remote-item .remote-image .overlay {
+         right: 96px;
+     }
+ }
+ /* extra large device end */
+ /* large device starts */
+ 
+ @media(min-width:992px) and (max-width: 1199.98px) {
+     #testimonial .slick-dots {
+         bottom: -17px;
+     }
+     #testimonial #slider-item .testimonial-about p {
+         font-size: 15px;
+         line-height: 20px;
+         padding-top: 0;
+     }
+     #remote .remote-item .remote-image .overlay {
+         right: 0px;
+     }
+     #testimonial .testimonial-bg .testimonial-image .play-icon {
+         width: 47px;
+         height: 47px;
+     }
+     #testimonial .testimonial-bg .testimonial-image .play-icon i {
+         line-height: 47px;
+     }
+     #testimonial .testimonial-bg .click p {
+         font-size: 22px;
+         margin-bottom: 0;
+         line-height: 24px;
+     }
+ }
+ /* large device ends */
+ /* medium device starts  */
+ 
+ @media(min-width:768px) and (max-width: 991.98px) {
+     .navbar {
+         margin-top: 20px !important;
+     }
+     .navbar::after {
+         top: -20px;
+     }
+     .navbar .navbar-brand {
+         position: static;
+     }
+     .navbar .navbar-nav {
+         background: #1da0f2;
+     }
+     .navbar .navbar-nav .nav-item .nav-link {
+         color: #fff;
+     }
+     .navbar-expand-lg .navbar-nav .nav-link.active {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+         background: #ffff;
+         top: 0px;
+     }
+     #catagory .catagory-details .catagory-about h3 {
+         font-size: 23px;
+     }
+     #recent-job .sea a {
+         padding-right: 40px;
+         padding-left: 40px;
+     }
+     #recent-job .check-box .checking label {
+         margin-right: 33px;
+     }
+     #recent-job .join-job .view a {
+         font-size: 11px;
+         margin-top: 33px;
+     }
+     #recent-job .join-job .job-section .job-details h6 {
+         font-size: 11px;
+         margin-top: 0px;
+     }
+     #recent-job .join-job .location h4 {
+         font-size: 11px;
+     }
+     #recent-job .join-job .dollar h4 {
+         padding-top: 37px;
+         font-size: 11px;
+     }
+     #remote .remote-item .remote-image .overlay {
+         right: 0px;
+     }
+     #testimonial .testimonial-bg .testimonial-image .play-icon {
+         text-align: center;
+     }
+ }
+ /* medium device ends  */
+ /* small device starts */
+ 
+ @media(min-width:576px) and (max-width: 767.98px) {
+     .navbar {
+         margin-top: 20px !important;
+     }
+     .navbar::after {
+         top: -20px;
+     }
+     .navbar .navbar-brand {
+         position: static;
+     }
+     .navbar .navbar-nav {
+         background: #1da0f2;
+     }
+     .navbar .navbar-nav .nav-item .nav-link {
+         color: #fff;
+     }
+     .navbar-expand-lg .navbar-nav .nav-link.active {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+         background: #ffff;
+         top: 0px;
+     }
+     #recent-job .check-box .checking label {
+         margin-right: 87px;
+     }
+     #recent-job .join-job .location {
+         margin-top: -5px;
+     }
+     #recent-job .join-job .dollar h4 {
+         padding-top: 46px;
+     }
+     #recent-job .join-job .view a {
+         padding: 17px 20px 8px 20px;
+         margin-top: 15px;
+     }
+     #remote .remote-item .remote-image .overlay {
+         right: 0px;
+     }
+     #testimonial .testimonial-bg .testimonial-image .play-icon {
+         bottom: 0px;
+     }
+     #testimonial #slider-item .testimonial-about p {
+         font-size: 17px;
+         line-height: 23px;
+     }
+     #milstone .funfact-item {
+         padding-left: 0;
+     }
+     #testimonial .testimonial-bg .click p {
+         margin-top: -10px;
+         margin-bottom: 20px;
+     }
+     #testimonial #slider-item .pencil-icon {
+         left: 202px;
+     }
+ }
+ /* small device ends */
+ 
+ @media(max-width:340.98px) {
+     .navbar {
+         margin-top: 20px !important;
+     }
+     .navbar::after {
+         top: -20px;
+     }
+     .navbar .navbar-brand {
+         position: static;
+     }
+     .navbar .navbar-nav {
+         background: #1da0f2;
+     }
+     .navbar .navbar-nav .nav-item .nav-link {
+         color: #fff;
+     }
+     .navbar-expand-lg .navbar-nav .nav-link.active {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+         background: #ffff;
+         top: 0px;
+     }
+     #banner .details h4 {
+         font-size: 31px;
+         line-height: 35px;
+     }
+     #banner .details p {
+         font-size: 14px;
+         padding-bottom: 21px;
+     }
+     #search .drop-drown-list .searching-bar a {
+         padding: 15px 116px;
+     }
+     #recent-job .check-box .checking label {
+         margin-right: 20px;
+     }
+     .browse .all-browse a {
+         padding: 22px 62px;
+     }
+     #recent-job .join-job .job-section .job-details h5 {
+         padding-top: 5px;
+     }
+     #recent-job .join-job .location {
+         margin-top: -45px;
+     }
+     #recent-job .join-job .dollar h4 {
+         padding-top: 0px;
+     }
+     #recent-job .join-job .view a {
+         padding: 15px 100px;
+         margin-bottom: 10px;
+         margin-top: 0px;
+     }
+     #recent-job .sea a {
+         padding: 18px 126px !important;
+     }
+     #remote .remote-item .remote-image .overlay {
+         right: 0px;
+     }
+     #milstone .funfact-item {
+         padding-left: 0;
+         padding-bottom: 0px;
+     }
+     #milstone .funfact {
+         padding-bottom: 0px;
+     }
+     #footer .overlay .subscribe input {
+         width: 92%;
+         display: block;
+         margin-bottom: 20px;
+     }
+     #footer .overlay .subscribe a span {
+         padding: 13px 90px;
+     }
+     #footer .overlay .footer-copy h4 {
+         font-size: 12px;
+         margin-top: 0;
+     }
+     #footer {
+         margin-top: 10px;
+     }
+     #footer .overlay .socila-icon ul li {
+         margin-right: 17px;
+     }
+     #testimonial .slider-item .item-image .image {
+         margin-right: 10px;
+     }
+     #testimonial .testimonial-bg .testimonial-image .record-icon {
+         top: 26px;
+         right: 66px;
+     }
+     #testimonial .slider-item .item-image .pencil-icon {
+         top: 13px;
+         right: 21px;
+     }
+     #testimonial .slider-item .item-image .text {
+         width: 290px;
+     }
+     #testimonial .slider-item .item-image .text h3 {
+         font-size: 18px;
+         padding-top: 5px;
+     }
+     #testimonial .slider-item .item-image .text h4 {
+         font-size: 14px;
+     }
+     #testimonial .slider-item .item-image .text ul li {
+         font-size: 12px;
+     }
+     #testimonial .slider-item .item-image .text p {
+         padding-top: 0px;
+         font-size: 12px;
+         line-height: 14px;
+         margin-bottom: 0;
+     }
+     #recent-job .sea a {
+         padding: 18px 157px;
+     }
+ }
+ /* extra small device starts */
+ 
+ @media(min-width:341px) and (max-width:575.98px) {
+     .navbar {
+         margin-top: 20px !important;
+     }
+     .navbar::after {
+         top: -20px;
+     }
+     .navbar .navbar-brand {
+         position: static;
+     }
+     .navbar .navbar-nav {
+         background: #1da0f2;
+     }
+     .navbar .navbar-nav .nav-item .nav-link {
+         color: #fff;
+     }
+     .navbar-expand-lg .navbar-nav .nav-link.active {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
+         color: #222222;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+         background: #ffff;
+         top: 0px;
+     }
+     #banner .details h4 {
+         font-size: 31px;
+         line-height: 35px;
+     }
+     #banner .details p {
+         font-size: 14px;
+         padding-bottom: 21px;
+     }
+     #search .drop-drown-list .searching-bar a {
+         padding: 15px 245px;
+     }
+     #recent-job .check-box .checking label {
+         margin-right: 59px;
+     }
+     #recent-job .join-job .job-section .job-details h5 {
+         padding-top: 5px;
+     }
+     #recent-job .join-job .location {
+         margin-top: -45px;
+     }
+     #recent-job .join-job .dollar h4 {
+         padding-top: 0px;
+     }
+     #recent-job .join-job .view a {
+         padding: 15px 228px;
+         margin-bottom: 10px;
+         margin-top: 0px;
+     }
+     #recent-job .sea a {
+         padding: 18px 242px;
+     }
+     #remote .remote-item .remote-image .overlay {
+         right: 0px;
+     }
+     #milstone .funfact-item {
+         padding-left: 0;
+         padding-bottom: 0px;
+     }
+     #milstone .funfact {
+         padding-bottom: 0px;
+     }
+     #footer .overlay .subscribe input {
+         width: 92%;
+         display: block;
+         margin-bottom: 20px;
+     }
+     #footer .overlay .subscribe a span {
+         padding: 13px 197px;
+     }
+     #footer .overlay .footer-copy h4 {
+         font-size: 12px;
+         margin-top: 0;
+     }
+     #footer {
+         margin-top: 10px;
+     }
+     #footer .overlay .socila-icon ul li {
+         margin-right: 17px;
+     }
+     #testimonial #slider-item .pencil-icon {
+         position: absolute;
+         top: 46px;
+         right: 70px;
+     }
+ }
+ /* extra small device ends */
